@@ -6,7 +6,7 @@ int main()
 int k;
 cout<<"Vvedite kolichestvo chisel :";
 cin>>k;
-for (int i=1;i<=k;i++)
+for (int i=0;i<k;i++)
 {
     cout<<4*i+3<<endl;
 
